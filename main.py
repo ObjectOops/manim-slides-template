@@ -5,4 +5,5 @@ def FadeOutAll(scene : Scene):
 
 # To separate the continuous animation into slides, use self.wait(1) to wait 1 second.
 # When replaying the video, take note of the timestamp each of these waits is at.
-# Add these to the closest second in `main.js`, as a second in the video each time it pauses.
+# Add these to the closest second in `main.js`, 
+# as a second is skipped in the video each time it pauses (hence the reason for the wait).
