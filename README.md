@@ -29,7 +29,7 @@ Add scene names to `videos.txt`.
 Concatenate scenes into a single file.
 ```sh
 cd media/videos/[insert scene video directory]
-sh ../../../../concat.sh
+../../../../concat.sh
 ```
 Copy the resulting video file from `media/...` into the project root directory and rename to `presentation.mp4`.  
 Determine the timestamp for each slide either by timing the video or counting the number of animations.  

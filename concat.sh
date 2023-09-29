@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Run in directory with videos.
 # This script combines the individual scenes into one file.
 # Add file names to `videos.txt` in order. Replace example content.
